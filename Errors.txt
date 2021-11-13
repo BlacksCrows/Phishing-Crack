@@ -1,0 +1,10 @@
+[1] Clear your Cookies
+[2] Make Sure You Are Using Python3
+[3] Make Sure You Have Installed Php(Php Version 7.4.3 Recommended)
+[4] Use Vpn Or Proxy
+[5] If You Got Any Errors, Restart The Tool
+[6] The Process Of Deleting .txt Files Is Done Automatically(Except For /log/Info.txt)
+[7] Make Sure You Have Installed Everything...
+[8] Delete The __pycache__ Folder For Any Issues
+[9] You Can See All Your Logs In /log/Info.txt
+[10] Open Terminal And Type 'killall -9 php' To Close The Php Server
