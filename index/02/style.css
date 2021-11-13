@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(235, 235, 235);
+    scrollbar-color: rgb(74, 33, 255) rgb(235, 235, 235) !important;
+    scrollbar-width: auto !important;
+    text-align: center;
+}
+
+.FaceBookLogo {
+    width: 240px;
+    margin-top: 2cm;
+    border: 0;
+}
+
+.window {
+    font-family: inherit;
+}
+
+.LoginForm {
+    border: 1px solid #dddfe2;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    margin: auto;
+    padding: 0 0 14px 0;
+    width: 396px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.Title {
+    padding: 16px 0 10px 0;
+    /* padding: 24px 0 16px 0; */
+    font-family: Helvetica;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.User {
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    font-family: inherit;
+
+    background: #FFFFFF url(/rsrc.php/v3/yO/r/YQNfPR9MJfx.png) repeat-x;
+    border: 1px solid #dddfe2;
+    color: #56585c;
+    height: 22px;
+    line-height: 16px;
+    vertical-align: middle;
+}
+
+.Pass {
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    font-family: inherit;
+
+    background: #FFFFFF url(/rsrc.php/v3/yO/r/YQNfPR9MJfx.png) repeat-x;
+    border: 1px solid #dddfe2;
+    /* color: #1d2129; */
+    color: #56585c;
+    height: 22px;
+    line-height: 16px;
+    vertical-align: middle;
+}
+
+.Padding {
+    padding: 8px;
+}
+
+.Padding2 {
+    padding: 6px;
+}
+
+.LoginBtn {
+    background-color: #1877f2;
+    box-sizing: content-box;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    white-space: nowrap;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.Link {
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Helvetica;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    padding: 7px;
+}

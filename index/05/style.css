@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(64, 125, 182);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+  }
+  
+  #content {
+    z-index:1;
+    background-color: rgb(228, 228, 228);
+    padding: -100%;
+    margin: 0;
+    margin-top: 20%;
+    min-width: 100vh;
+    min-height: 100vh;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+  }
+
+  .logo {
+    width: 2cm;
+    height: 2cm;
+  }
+
+  .window {
+    background-color: rgb(228, 228, 228);
+    z-index:2;
+    top: -160px;
+    display: block;
+    position: relative;
+    margin-top: -100px;
+    height: 70%;
+    width: 30%;
+    text-align: center;
+    border: 1px solid #bbbbbb;
+    max-width: 1000px;
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+    font-size: 14px;
+    box-shadow: 1px;
+  }
+
+  .login {
+    text-align: center;
+    margin: 1cm;
+  }
+
+  input {
+    padding: 9px 0px 7px 9px;
+    font-size: 12px;
+    width: 16rem;
+    height: 1.2rem;
+    outline: none;
+    background: rgb(228, 228, 228);
+    border-radius: 1px;
+    border: 1px solid #bbbbbb;
+}
+
+.margin1 {
+  margin: 10px;
+}
+
+.margin2 {
+  margin: 5px;
+}
+
+.BTN {
+  width: 85%;
+  height: 35px;
+  color: rgb(228, 228, 228);
+  border: #FFFFFF00;
+  border-radius: 0%;
+  background-color: rgb(64, 125, 182);
+}
+
+h2 {
+  margin-top: -10px;
+  color: #000000;
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+}

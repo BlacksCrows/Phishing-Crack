@@ -1,0 +1,142 @@
+body {
+    background-color: #fff;
+    text-align: center;
+    direction: ltr;
+    font-size: 14px;
+    line-height: 1.4286;
+    font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+    color: #202124;
+}
+
+.p {
+    box-sizing: inherit;
+    color: #202124;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    line-height: 1.5;
+    text-align: center;
+    font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+    direction: ltr;
+}
+
+.logo {
+    width: 25%;
+    height: 25%;
+    margin-top: -10px;
+}
+
+.login {
+    text-align: center;
+    height: auto;
+    min-height: 500px;
+    box-sizing: inherit;
+    overflow-y: auto;
+    transition: .2s;
+    padding: 48px 40px 36px;
+}
+
+.window {
+    text-align: center;
+    transition: .2s;
+    border-radius: 8px;
+    border: 1px solid #dadce0;
+    display: block;
+    flex-shrink: 0;
+    margin: 0 auto;
+    width: 450px;
+    height: 450px;
+    box-sizing: inherit;
+    margin-top: 1cm;
+}
+
+.title {
+    direction: ltr;
+    text-align: center;
+    color: #202124;
+    padding-bottom: 0;
+    padding-top: 16px;
+    font-family: 'Google Sans', 'Noto Sans Myanmar UI' ,arial,sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.3333;
+    margin-bottom: 10px;
+    margin-top: -10px;
+}
+
+input {
+    width: 90%;
+    white-space: normal;
+    line-height: 24px;
+    min-width: 0%;
+    outline: none;
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: transparent;
+    border: none;
+    display: block;
+    font: 400 16px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    box-sizing: inherit;
+    border-radius: 4px;
+    color: #202124;
+    font-size: 16px;
+    height: 28px;
+    margin: 1px 1px 0 1px;
+    padding: 13px 15px;
+    z-index: 1;
+    direction: ltr;
+    text-align: left;
+    border: 1px solid #dadce0;
+}
+
+.margin1 {
+    margin: 20px;
+}
+
+.margin2 {
+    margin: 5px;
+    text-align: left;
+}
+
+.a {
+    font-weight: bold;
+    box-sizing: inherit;
+    font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+    margin-left: 5px;
+    border-radius: 4px;
+    color: #1a73e8;
+    display: inline-block;
+    font-weight: 500;
+    letter-spacing: .25px;
+    outline: 0;
+    position: relative;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: inherit;
+    padding: 0;
+    text-align: left;
+    border: 0;
+}
+
+.NBTN {
+    color: #fff;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: .875rem;
+    letter-spacing: .0107142857em;
+    font-weight: 500;
+    text-transform: none;
+    transition: border 280ms cubic-bezier(0.4,0,0.2,1),box-shadow 280ms cubic-bezier(0.4,0,0.2,1);
+    width: 80px;
+    margin-top: 10px;
+    height: 40px;
+    background-color: #1a73e8;
+    border-radius: 4px;
+    box-shadow: none;
+    text-shadow: none;
+    border-color: #ffffff00;
+}
+
+.downscreen {
+    text-align: right;
+    margin-right: 4px;
+}
