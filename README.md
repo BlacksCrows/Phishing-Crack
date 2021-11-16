@@ -47,7 +47,7 @@ Version 1.0.0 Created By temirovazat
 
 ```bash
 $ git clone https://github.com/BlacksCrows/Phishing-Crack
-$ cd Excalibur
+$ cd Phishing-Crack
 $ sudo bash install.sh
 $ python3 -m pip install -r requirments.txt
 $ sudo python3 Excalibur.py
