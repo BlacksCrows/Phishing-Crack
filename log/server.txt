@@ -1,0 +1,7 @@
+[Tue Nov 16 13:22:51 2021] PHP 7.4.3 Development Server (http://localhost:6060) started
+[Tue Nov 16 13:24:29 2021] 127.0.0.1:34200 Accepted
+[Tue Nov 16 13:24:29 2021] 127.0.0.1:34200 [302]: GET /
+[Tue Nov 16 13:24:29 2021] 127.0.0.1:34200 Closing
+[Tue Nov 16 13:24:33 2021] 127.0.0.1:34202 Accepted
+[Tue Nov 16 13:24:33 2021] 127.0.0.1:34202 [200]: GET /index.html
+[Tue Nov 16 13:24:33 2021] 127.0.0.1:34202 Closing

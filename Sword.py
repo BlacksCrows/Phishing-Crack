@@ -16,7 +16,7 @@ from colorama import Fore
 import  os
 import  time
 
-# Copyright C 2021 By FireKing255
+# Copyright C 2021 By temirovazat
 
 def Sword():
     os.system('clear')
